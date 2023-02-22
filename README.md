@@ -31,4 +31,4 @@
 
 
 - Display King County at a street level
--Min Zoom: 1 Max Zoom: 8
+- Min Zoom: 1 Max Zoom: 8
