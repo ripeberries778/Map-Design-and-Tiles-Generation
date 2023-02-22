@@ -11,6 +11,8 @@
 
 ## Map 2: Navigation 
 
+
+
 - Displays King County streets 
 - Min Zoom: 1 Max Zoom: 8
 
@@ -19,11 +21,9 @@
 - Min Zoom: 1 Max Zoom: 5
 
 ## Map 4: Streets
-- Display King County at a street level
--Min Zoom:
-1. the url to access the web map you have made.
-2. screenshots of the four layers (2 POINTS)
-3. the examined geographic area, and (2 POINTS)
-4. the available zoom levels of each tile set (2 POINTS), and
-5. brief descriptions of each tile sets (3 POINTS).
+![Screenshot 2023-02-21 at 11 16 36 PM](https://user-images.githubusercontent.com/119153928/220549814-d8dae304-d9ad-4357-bcfa-6f54a928b714.png)
 
+
+
+- Display King County at a street level
+-Min Zoom: 1 Max Zoom: 8
