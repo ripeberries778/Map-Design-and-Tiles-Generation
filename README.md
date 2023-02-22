@@ -2,6 +2,8 @@
 
 ### By Johnny Nguyen
 
+The projects showcases four tile sets of the North West and the King County area with a geographic lens. The various zoom levels display can help see the area at different views.
+
 ## Map 1: General monochrome
 
 ![mono](https://user-images.githubusercontent.com/119153928/220550118-7ff1188c-dc59-4cc0-a66e-af02d1f9a45d.png)
