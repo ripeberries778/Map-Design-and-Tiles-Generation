@@ -34,3 +34,6 @@ The projects showcases four tile sets of the North West and the King County area
 
 - Display King County at a street level
 - Min Zoom: 1 Max Zoom: 8
+
+### Click to view site
+[link](http://127.0.0.1:5500/index.html)
